@@ -1,0 +1,9 @@
+.sorted {
+	display: inline;
+	padding-top: 36px;
+	padding-left: 70px;
+	padding-bottom: 27px;
+	padding-right: 70px;
+	font-size: 30px;
+	transition: 0.2s;
+}
